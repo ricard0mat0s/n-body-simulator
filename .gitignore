@@ -1,0 +1,26 @@
+# CMake generated files
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.make
+cmake_install.cmake
+
+# Compiled Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.so
+*.lib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# SDL file
+SDL/
